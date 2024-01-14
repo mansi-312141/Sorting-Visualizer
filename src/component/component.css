@@ -1,0 +1,27 @@
+.container_ {
+  margin: 2%;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  border: 2px solid black;
+  width: 95vw;
+  flex-direction: column;
+  height: 85vh;
+}
+.Bar {
+  display: inline-block;
+}
+.barContainer {
+  display: flex;
+  align-items: baseline;
+  margin: auto;
+  font-size: 1.2vw;
+}
+#sec_array {
+  display: none;
+}
+
+.fixer {
+  color: rgba(0, 0, 0, 0);
+}
